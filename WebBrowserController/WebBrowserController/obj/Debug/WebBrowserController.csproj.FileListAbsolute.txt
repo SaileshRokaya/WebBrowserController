@@ -1,0 +1,9 @@
+D:\Projects\C#\Web Browser Cotrol\WebBrowserController\WebBrowserController\bin\Debug\WebBrowserController.exe.config
+D:\Projects\C#\Web Browser Cotrol\WebBrowserController\WebBrowserController\bin\Debug\WebBrowserController.exe
+D:\Projects\C#\Web Browser Cotrol\WebBrowserController\WebBrowserController\bin\Debug\WebBrowserController.pdb
+D:\Projects\C#\Web Browser Cotrol\WebBrowserController\WebBrowserController\obj\Debug\WebBrowserController.Form1.resources
+D:\Projects\C#\Web Browser Cotrol\WebBrowserController\WebBrowserController\obj\Debug\WebBrowserController.Properties.Resources.resources
+D:\Projects\C#\Web Browser Cotrol\WebBrowserController\WebBrowserController\obj\Debug\WebBrowserController.csproj.GenerateResource.cache
+D:\Projects\C#\Web Browser Cotrol\WebBrowserController\WebBrowserController\obj\Debug\WebBrowserController.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Web Browser Cotrol\WebBrowserController\WebBrowserController\obj\Debug\WebBrowserController.exe
+D:\Projects\C#\Web Browser Cotrol\WebBrowserController\WebBrowserController\obj\Debug\WebBrowserController.pdb
